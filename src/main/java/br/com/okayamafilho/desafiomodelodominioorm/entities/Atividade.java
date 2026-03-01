@@ -9,7 +9,6 @@ public class Atividade {
 
     public Atividade() {
 
-
     }
 
     public Atividade(Integer id, String nome, String descricao, Double preco) {
